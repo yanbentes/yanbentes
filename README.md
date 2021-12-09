@@ -1,2 +1,2 @@
-<img align="center" src="https://stickershop.line-scdn.net/stickershop/v1/product/6581039/LINEStorePC/main.png;compress=true" alt="kamoji"/>
+<img align="center" src="https://www.japaoemfoco.com/wp-content/uploads/2013/08/Kaomoji-2.gif" alt="kamoji"/>
 
