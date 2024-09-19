@@ -7,8 +7,8 @@
 ## About
 
 Hi! I am Yan, Computer Engineering student at [Universidade Federal de Santa Catarina](https://ufsc.br/).
-I am currently studying Data Engineering with Python and am eager to build a career in the field of Data Science.
-I am actively seeking new opportunities to learn and grow professionally.
+Currently studying Data Engineering with Python and I am eager to build a career in the field of Data Science.
+Actively seeking new opportunities to learn and grow professionally.
 I am available for roles that allow me to apply and expand my knowledge in Data Science and related fields.
 
 ## Technologies:
