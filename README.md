@@ -7,14 +7,14 @@
 ## About
 
 Hi! I am Yan, Computer Engineering student at [Universidade Federal de Santa Catarina](https://ufsc.br/).
-Currently studying Data Engineering with Python and I am eager to build a career in the field of Data Science.
+Currently studying Machine Learning and Computer Vision with Python and I am eager to build a career in the field of Data Science.
 Actively seeking new opportunities to learn and grow professionally.
 I am available for roles that allow me to apply and expand my knowledge in Data Science and related fields.
 
 ## Technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
